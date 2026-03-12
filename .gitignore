@@ -5,4 +5,7 @@
 03_web_scraping/cleaned_data
 03_web_scraping/scraped_data
 04_matplotlib/02_matplotlib_tutorial.ipynb
+04_matplotlib/data.json
+04_matplotlib/thinking_data.ipynb
 05_seaborn/02_seaborn_tutorial.ipynb
+06_maths/probab_dis_code.ipynb
