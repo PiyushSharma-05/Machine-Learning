@@ -12,3 +12,4 @@
 08_Titanic_self/titanic_test.csv
 08_Titanic_self/titanic_train.csv
 11_ensemble_models/01_random_forest/00_titanic.csv
+16_Anomaly_Detection/thyroid_dataset.csv
